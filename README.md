@@ -1,9 +1,3 @@
-<h1>YouTube Channel - Spring Boot Tutorial</h1>
-<p>Subscribe for future video and updates</p>
-
-<a href="https://www.youtube.com/playlist?list=PLGRDMO4rOGcNSBOJOlrgQqGpIgo6_VZgR" target="_blank">Spring Boot Tutorial on YouTube
-</a>
-
 <h1> Spring Boot Tutorials/Articles/Guides </h1>
 
 <h2> Latest articles/tutorials/guides from <a href="https://www.javaguides.net/"> Java Guides</a> </h2>
